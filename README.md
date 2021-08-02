@@ -1,9 +1,4 @@
 ### Hi there, I'm Paulo 👋
-<a href="https://www.linkedin.com/in/paulo-frevert"/>
-  <img align="left" alt="My LinkedIn" width="16px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1617206582~hmac=84887ceeb352c6ae7463315bbf3657b7" />
-</a>
-
-<br />
 
 ### I am a student from Germany, who just discovered the world of coding.
 
